@@ -159,16 +159,3 @@ function stopAction(){
 
 
 
-
-//TODO:
-//ensure that if a heart container is missed, heart is not lost
-//if a heart container is sliced, and heart container life is not full, then heart container count is increased
-//make speed range increase over time
-//introduce concept of level, every 10 slices level up
-//every level up, gain expertise, able to manipulate algebraic expressions on the side
-//the more algebra solved, the more intelligence points gained.
-//with enough intelligence points, trade in for school grade levels.
-//with enough school grade levels, can trade in for acceptance to college.
-//when college complete, and enough expertise, you can then upgrade your invisible sword to a visible sword.
-
-//just some ideas
